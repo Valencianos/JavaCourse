@@ -13,6 +13,7 @@ public class Sem5_1_HW {
         addData(pb,"Stan", "9032145487");
         addData(pb,"Stefania", "9135412894");
         addData(pb,"Oleg", "9031286985");
+        addData(pb,"Avdotya", "9164715236");
         addData(pb,"Oleg", "9012548741");
 
         pb.entrySet()
